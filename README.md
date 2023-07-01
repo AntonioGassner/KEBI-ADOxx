@@ -8,3 +8,7 @@ Library management -> Settings -> Management -> Import -> select "KEBI Wine Reco
 Now, you will also need icons to make it work, which are provided inside the repository as well.
 
 Extras -> Import -> select all the icons
+
+# Example model
+
+ADOxx model.adl contains a model drawn with the ADOxx modelling tool
